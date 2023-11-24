@@ -1,0 +1,13 @@
+
+Hola [Nombre del Empleado],
+
+Nos complace informarle que su salario para el mes de mayo de 2023 se ha actualizado, a cobrar el 5 de junio de 2023. 
+Tu nuevo salario bruto es de [Nuevo Salario], lo que representa un [Incremento de Mayo] y a esto se le suma el bono por conectividad de $14.000 neto.
+
+[También queremos felicitarte por la promoción a [Nueva Posición], que significó un 15%. Tu acumulado anual es de [Incremento Acumulado].]
+
+Te pedimos por favor que completes la encuesta, ya que nos ayuda a seguir mejorando. https://forms.office.com/e/bHAWhqKiLU
+
+A disposición para lo que necesites.
+Saludos,
+N Digital Delivery Center
